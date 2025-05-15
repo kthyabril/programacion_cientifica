@@ -28,7 +28,8 @@
 ## 🌱 Actualmente…  
 - Explorando la optimización de modelos **TFLite** para aplicaciones móviles.  
 - Aprendiendo más sobre sistemas embebidos y su interacción con el mundo físico.  
-
+- Diseño y despliegue de redes coorporativas.
+- Creacion de scripts para la automatizacion de router Mikrotik
 ## 📫 Contacto  
  
 - 📧 **[Correo Electrónico](hectordesosa.01@gmail.com)**  
