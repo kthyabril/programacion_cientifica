@@ -3,7 +3,7 @@
 
 ## 🚀 Sobre mí  
 - 🎓 **Egresado en Ingeniería en Computación de la FIO**.  
-- 🏆 Primer ingeniero de la provincia de Misiones.  
+- 🏆 Primer ingeniero en Computación de la provincia de Misiones.  
 - 📍 Vivo en **Argentina**, con una importante conexión con la apicultura y su integración con la tecnología.  
 
 ## 💡 Proyectos destacados  
