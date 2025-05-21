@@ -1,0 +1,5 @@
+expresion = input("Ingresa una expresión: ")
+mayusculas = expresion.upper()
+print(f"En mayúsculas: {mayusculas}")
+minusculas = expresion.lower()
+print(f"En minúsculas: {minusculas}")

@@ -1,0 +1,5 @@
+num1 = float(input("ingresa el primer número:"))
+num2 = float(input("ingresa el segundo número:"))
+print(f"la suma es:{num1+num2}")
+print(f"la resta es:{num1-num2}")
+print(f"la multiplicación es:{num1*num2}")

@@ -1,0 +1,6 @@
+nombre=(input("ingresa tu nombre:"))
+edad = float(input("ingresa tu edad:"))
+ciudad =(input("ingresa tu ciudad:"))
+print(f"tu nombre es:{nombre}")
+print(f"tu edad es:{edad}")
+print(f"tu ciudad es:{ciudad}")
