@@ -1,0 +1,5 @@
+Tkinter es el entorno gráfico estándar que viene incluido con Python. Su principal ventaja es la simplicidad: es fácil de aprender, liviano y suficiente para crear interfaces básicas. Es ideal para estudiantes, docentes y desarrolladores que buscan prototipos rápidos o herramientas educativas. No requiere instalación adicional y tiene una comunidad muy activa en el ámbito académico. Sin embargo, sus limitaciones son evidentes cuando se busca una estética moderna o funcionalidades más avanzadas. El diseño visual es manual, y aunque se puede personalizar, no alcanza el nivel de detalle que ofrecen otros frameworks.
+PyQt5, en cambio, es un entorno mucho más potente y profesional. Permite crear interfaces modernas, escalables y visualmente atractivas. Su integración con Qt Designer facilita el diseño visual sin escribir código desde cero, lo que acelera el desarrollo y mejora la presentación. Es ampliamente usado en aplicaciones empresariales, científicas y comerciales. La desventaja principal es su complejidad.
+En lo personal se me hizo mas sencillo utilizar tkinter. 
+
+
